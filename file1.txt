@@ -4,7 +4,4 @@ kkjdfsdf
 dsf
 sdf
 sdf
-
-changes in sprint1
-
-changes for master for sprint2
+one more change for sprint2
